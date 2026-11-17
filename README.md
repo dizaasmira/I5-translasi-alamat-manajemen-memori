@@ -24,8 +24,3 @@ python translasi_alamat.py
 ## Dokumentasi
 
 Hasil pengamatan lingkungan virtual machine dan keluaran program disertakan pada folder `dokumentasi/`.
-
-
----
-
-**Mata Kuliah Sistem Operasi | Informatika | Universitas Sebelas April | 2026**
